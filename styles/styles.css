@@ -1,0 +1,35 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.header {
+	text-align: center;
+	font-family: 'Bellota', cursive;
+	margin-bottom: 40px;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.container .item {
+	margin: 10px 0 40px 0;
+}
+
+.container .item img {
+	width: 100%;
+}
+
+.container .info {
+	font-size: 12px;
+}
+
+.container .info .date {
+	text-decoration: underline;
+}
+
+.container .caption {
+	padding-left: 10px;
+	border-left: 3px solid grey;
+}
