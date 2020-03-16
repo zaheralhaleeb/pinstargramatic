@@ -16,15 +16,18 @@ We need someone to create styles for tablet and desktop.
 
 ### Tablet
 
-Active between resolutions of 400 pixels and 1024 pixels
+Active between screen widths of 400 pixels and 1024 pixels
 
 - Images should be side by side
 - Only 2 images should be displayed on a row at a time
 
 ### Desktop
 
-Active over 1024 pixels
+Active over screen widths of 1024 pixels
 
 - Images should be displayed side by side
 - Only 4 images should be displayed on a row at a time
-- Maximum width of the page should be 80%
+- Maximum width of the page should be 60%
+- The "container" element should be centered on the page
+- The body background colour should be 'antiquewhite'
+- The background colour for the "container" element should be "white"
