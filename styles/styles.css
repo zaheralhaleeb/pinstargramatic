@@ -33,3 +33,30 @@ body {
 	padding-left: 10px;
 	border-left: 3px solid grey;
 }
+
+
+@media only screen and (min-width:400px)and (max-width:1024px){
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+}
+.container .item{
+	width: 45%;
+ 
+}
+}
+@media only screen and (min-width:1025px){
+	.container{
+		width: 60%;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	
+	}
+	.container .item{
+		width: 22%;
+	 
+	}
+}
